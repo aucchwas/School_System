@@ -32,10 +32,10 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/BITCollege_JW.git
+    git clone https://github.com/aucchwas/School_System.git
     ```
 
-2. Open the solution file `BITCollege_JW.sln` in Visual Studio.
+2. Open the solution file `BITCollege_ADU.sln` in Visual Studio.
 
 3. Restore the NuGet packages:
     ```sh
